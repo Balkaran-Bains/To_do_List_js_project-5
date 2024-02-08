@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../images 3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "to_do_list",
+		"liveServer.settings.port": 5501
+	}
+}
